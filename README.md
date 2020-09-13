@@ -7,8 +7,8 @@ This is a Blockchain based project in which patient's medical history is maintai
 
 Objectives :
 
-Nowadays many of us uses cloud computing in healthcar.But by this,transaction rate is being reduced. Despite the benefits of cloud computing, the issues are also very
-immense. It is reported that data privacy is a the main concern for the utilization of cloud computing in the healthcare industry. Cloud computing can cause poor encryption key management because it is a multi-tendency management system. That’s why blockchain technology is employed to make system more efficient and more secured.
+Nowadays many of us uses cloud computing in healthcare.But by this,transaction rate is being reduced. Despite the benefits of cloud computing, the issues are also very
+immense. It is reported that data privacy is the main concern for the utilization of cloud computing in the healthcare industry. Cloud computing can cause poor encryption key management because it is a multi-tendency management system. That’s why blockchain technology is employed to make system more efficient and more secured.
 
 Key Features :
 
